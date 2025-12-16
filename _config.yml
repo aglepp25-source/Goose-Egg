@@ -1,1 +1,4 @@
-
+theme: jekyll-theme-minimal
+title: Goose Egg Data Project
+description: "Extending 538's Goose Egg Data and Analysis"
+show_downloads: false
