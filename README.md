@@ -24,6 +24,17 @@ The next step was importing fastball velocity data from Statcast, which was done
 
 Here are the plots for the relevant seasons.
 
+[2015](GooseEgg2015.png)
+[2016](GooseEgg2016.png)
+[2017](GooseEgg2017.png)
+[2018](GooseEgg2018.png)
+[2019](GooseEgg2019.png)
+[2020](GooseEgg2020.png)
+[2021](GooseEgg2021.png)
+[2022](GooseEgg2022.png)
+[2023](GooseEgg2023.png)
+[2024](GooseEgg2024.png)
+[2025](GooseEgg2025.png)
 
 
 Conclusions:
